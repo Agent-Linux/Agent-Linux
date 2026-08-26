@@ -9,3 +9,9 @@
 <p align="center">
   <img src="https://github-readme-stats-omega-ruby-53.vercel.app/api?username=Agent-Linux&amp;show_icons=true" alt="GitHub Stats">
 </p>
+<div align="center">
+  <img
+    src="https://github-readme-stats-agent-linux.vercel.app/api/top-langs/?username=Agent-Linux"
+    alt="Top Languages"
+  />
+</div>
