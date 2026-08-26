@@ -19,17 +19,19 @@
   </picture>
 
 <!-- Stats + Languages SIDE BY SIDE -->
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td>
+    <td align="center" valign="middle" width="50%">
       <img
-        src="https://github-readme-stats-omega-ruby-53.vercel.app/api?username=Agent-Linux&show_icons=true&hide_border=true&title_color=22D3EE&text_color=94A3B8&icon_color=22D3EE&bg_color=0A101F&card_width=450"
+        width="500"
+        src="https://github-readme-stats-omega-ruby-53.vercel.app/api?username=Agent-Linux&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&text_color=94A3B8&icon_color=22D3EE&bg_color=0A101F&card_width=500&line_height=30"
         alt="GitHub Stats"
       />
     </td>
-    <td>
+    <td align="center" valign="middle" width="50%">
       <img
-        src="https://github-readme-stats-agent-linux.vercel.app/api/top-langs/?username=Agent-Linux&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=450"
+        width="500"
+        src="https://github-readme-stats-agent-linux.vercel.app/api/top-langs/?username=Agent-Linux&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500"
         alt="Top Languages"
       />
     </td>
